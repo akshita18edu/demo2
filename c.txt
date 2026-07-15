@@ -1,2 +1,6 @@
 this is 3.txt
+<<<<<<< HEAD
 this is diffdd
+=======
+to check difference
+>>>>>>> loginsystem
